@@ -1,3 +1,4 @@
+/*
 -- Finding information about your query's connection									                                                                                  
 -- Firma: BitHawk AG
 -- Script Name: querys_connection.sql
