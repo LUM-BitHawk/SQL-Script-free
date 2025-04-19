@@ -1,3 +1,4 @@
+/*
 -- Determine idle sessions with open transactions									                                                                                  
 -- Firma: BitHawk AG
 -- Script Name: Detecting_idle_sessions.sql
